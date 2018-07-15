@@ -5,5 +5,6 @@ class CreateStudents < ActiveRecord::Migration[5.1]
   :database => "db/artists.sqlite"
 )
 
-
+  def change
+  end
 end
