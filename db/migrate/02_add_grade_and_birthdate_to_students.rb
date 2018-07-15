@@ -1,1 +1,5 @@
-class AddColumn::
+class AddColumn < ActiveRecord::Migration[5.1]
+
+  
+  
+end
