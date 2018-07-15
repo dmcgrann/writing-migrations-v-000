@@ -1,6 +1,6 @@
 class AddColumn < ActiveRecord::Migration[5.1]
 
   def change
-    add
+    add_column 
   
 end
